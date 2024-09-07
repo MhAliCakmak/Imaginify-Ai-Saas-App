@@ -65,6 +65,7 @@ const Checkout = ({
           type="submit"
           role="link"
           className="w-full rounded-full bg-purple-gradient bg-cover"
+          disabled
         >
           Buy Credit
         </Button>
