@@ -31,6 +31,7 @@ const MediaUploader = ({
       height: result?.info?.height,
       secureURL: result?.info?.secure_url,
     }));
+    
 
     onValueChange(result?.info?.public_id);
 
